@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /Private/
-Allow: /Public/
-Sitemap: https://same33c.github.io/cobra33sa.github.io/Sitemap.xml
